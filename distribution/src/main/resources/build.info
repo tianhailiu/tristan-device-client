@@ -1,0 +1,8 @@
+Build info:
+
+ Version    : ${project.version} (build ${build.number})
+ Revision   : ${changeSet}
+ Java       : ${java.home} (${java.runtime.name} ${java.runtime.version})
+ Maven      : ${maven.build.version}
+ Build host : ${build.host} (${os.name}/${os.arch} ${os.version})
+ Date       : ${build.time}

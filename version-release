@@ -1,0 +1,8 @@
+# EDP Client version information
+# File is accessed by the autobuild infrastructure (build-o-mat)
+EDP_CLIENT_MAJOR_VERSION=3
+EDP_CLIENT_MINOR_VERSION=0
+EDP_CLIENT_MATURITY=dev
+EDP_CLIENT_RELEASE=0
+EDP_CLIENT_COPYRIGHT_BEGIN=2019
+EDP_CLIENT_COPYRIGHT_END=2024
